@@ -10,3 +10,6 @@ mod mod_3_check_palindrome;
 
 #[path="4_adjacent_elements_product.rs"]
 mod mod_4_adjacent_elements_product;
+
+#[path="5_shape_area.rs"]
+mod mod_5_shape_area;
