@@ -7,11 +7,8 @@ An n-interesting polygon is obtained by taking the n - 1-interesting
 polygon and appending 1-interesting polygons to its rim, side by side. 
 */
 fn shape_area(n: i32) -> i32 {
-    let mut sum = 1;
-    for i in 0..n {
-        sum += i*4;
-    }
-    return sum;
+    // create a range iter with i..j
+    (0..n).map(|i| i*4).sum::<i32>() + 1
 }
 
 #[cfg(test)]
