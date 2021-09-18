@@ -13,3 +13,6 @@ mod mod_4_adjacent_elements_product;
 
 #[path="5_shape_area.rs"]
 mod mod_5_shape_area;
+
+#[path="6_almost_increasing_sequence.rs"]
+mod mod_6_almost_increasing_sequence;
