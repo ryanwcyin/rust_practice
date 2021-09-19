@@ -16,3 +16,6 @@ mod mod_5_shape_area;
 
 #[path="6_almost_increasing_sequence.rs"]
 mod mod_6_almost_increasing_sequence;
+
+#[path="7_matrix_elements_sum.rs"]
+mod mod_7_matrix_elements_sum;
