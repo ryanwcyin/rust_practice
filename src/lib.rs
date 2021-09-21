@@ -19,3 +19,6 @@ mod mod_6_almost_increasing_sequence;
 
 #[path="7_matrix_elements_sum.rs"]
 mod mod_7_matrix_elements_sum;
+
+#[path="8_climbing_stairs.rs"]
+mod mod_8_climbing_stairs;
