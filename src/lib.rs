@@ -22,3 +22,6 @@ mod mod_7_matrix_elements_sum;
 
 #[path="8_climbing_stairs.rs"]
 mod mod_8_climbing_stairs;
+
+#[path="9_all_longest_strings.rs"]
+mod mod_9_all_longest_strings;
